@@ -1,0 +1,134 @@
+
+body{
+padding: 0;
+margin: 0;  
+text-align: center; 
+
+background-color:#edf0f5 ;
+ font-family: Helvetica, Arial, sans-serif;
+}
+
+.all{
+    display: flex;
+    /* width: 980px; */
+    margin-top: 200px;
+    text-align: center;
+    justify-content:space-around;
+    
+    
+    
+}
+.right_p{
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    padding-top: 0;
+    text-align: left;
+} 
+.fb_logo{
+    height: 106px;
+    margin: -28px;
+}
+.right{
+    border-radius: 7px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    width: 396px;
+    margin-left:20px;
+    
+  
+    
+}
+input{
+    border-radius: 7px;
+    border-color: rgb(211, 210, 210);
+    width: 332px;
+    height: 48px;
+    margin: 15px;
+    font-family: inherit;
+    
+    
+}
+.se_connecter{
+    background-color:#1877f2;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    height: 48px;
+    width: 332px;
+    font-size: 17px;
+    font-family: inherit;
+
+}
+.Créer_un_compte{
+    background-color:#42b72a;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    height: 45px;
+    font-size: 17px;
+    font-family: inherit;
+    margin-bottom: 15px;
+}
+.a5at{
+    padding: 10px 20px 10px 20px;
+    color: white;
+}
+.mdbo{
+    padding-top: 20px;
+
+}
+.mdbo a{
+    text-decoration: none;
+
+    color:#3477cf ;
+}
+.mdbo a:hover{
+text-decoration-line: underline;
+}
+.Créer_un_compte:hover{
+    background-color:#389725 ;
+}
+.se_connecter:hover{
+    background-color: #1666ce;
+}
+.p{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.ktiba{
+    margin-top: 15px;
+
+}
+.p:hover{
+text-decoration-line: underline;
+    
+}
+.left{
+    padding-top: 50px;
+   /*  padding-right: 150px; */
+}
+
+.ul_1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: -39px;
+    
+}
+.ul_1 li {
+    color: #737373;
+    list-style: none;
+    font-size: 12px;
+
+}
+.footer{
+    margin-top: 15%;
+}
+footer{
+    background-color: white;
+    padding-bottom: 10px
+
+}
